@@ -68,7 +68,7 @@ const RootQuery = new GraphQLObjectType({
     books: {
       type: new GraphQLList(BookType),
       resolve(parent, args) {
-        return books;
+        return books.sort((a, b) => a.rating > b.rating ? 1 : -1);
       }
     },
     authors: {

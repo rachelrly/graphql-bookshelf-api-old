@@ -7,19 +7,6 @@ const schema = require('./schema/schema');
 
 const app = express();
 app.use(cors());
-//app.use(helmet());
-
-
-// const schema = buildSchema(`
-// type Query {
-//     test: String
-// }`);
-
-// const root = {
-//     test: () => {
-//         return 'Hello test!'
-//     }
-// };
 
 app.use('/graphql', graphqlHTTP({
     schema,
