@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "title": "Less",
+    "genre": "Fiction",
+    "rating": 5,
+    "published": "2018",
+    "authorId": 1
+  },
+  {
+    "id": 2,
+    "title": "Pachinko",
+    "genre": "Fiction",
+    "rating": 5,
+    "published": "2018",
+    "authorId": 2
+  },
+  {
+    "id": 3,
+    "title": "Crime and Punishment",
+    "genre": "Fiction",
+    "rating": 5,
+    "published": "1866",
+    "authorId": 4
+  },
+  {
+    "id": 4,
+    "title": "Telex from Cuba",
+    "genre": "Fiction",
+    "rating": 5,
+    "published": "2008",
+    "authorId": 5
+  },
+  {
+    "id": 5,
+    "title": "The Mars Room",
+    "genre": "Fiction",
+    "rating": 4,
+    "published": "2018",
+    "authorId": 5
+  },
+  {
+    "id": 6,
+    "title": "The Flamethrowers",
+    "genre": "Fiction",
+    "rating": 2,
+    "published": "2013",
+    "authorId": 5
+  },
+  {
+    "id": 7,
+    "title": "Nobody Move",
+    "genre": "Fiction",
+    "rating": 3,
+    "published": "2009",
+    "authorId": 3
+  },
+  {
+    "id": 8,
+    "title": "The Idiot",
+    "genre": "Fiction",
+    "rating": 4,
+    "published": "1868",
+    "authorId": 4
+  },
+  {
+    "id": 9,
+    "title": "Angles",
+    "genre": "Fiction",
+    "rating": 5,
+    "published": "2003",
+    "authorId": 3
+  },
+  {
+    "id": 10,
+    "title": "The Largesse of the Sea Maiden",
+    "genre": "Short Stories",
+    "rating": 5,
+    "published": "2018",
+    "authorId": 3
+  },
+  {
+    "id": 11,
+    "title": "No One Belongs Here More Than You",
+    "genre": "Short Stories",
+    "rating": 2,
+    "published": "2007",
+    "authorId": 6
+  },
+  {
+    "id": 12,
+    "title": "Bird by Bird: Some Instructions on Writing and Life",
+    "genre": "Writing",
+    "rating": 3,
+    "published": "1995",
+    "authorId": 7
+  },
+  {
+    "id": 13,
+    "title": "Grace (Eventually): Thoughts on Faith",
+    "genre": "Spirituality",
+    "rating": 3,
+    "published": "1995",
+    "authorId": 7
+  },
+  {
+    "id": 14,
+    "title": "A Thousand Mornings",
+    "genre": "Poetry",
+    "rating": 5,
+    "published": "2012",
+    "authorId": 8
+  },
+  {
+    "id": 15,
+    "title": "There Are More Beautiful Things Than Beyonce",
+    "genre": "Poetry",
+    "rating": 4,
+    "published": "2017",
+    "authorId": 9
+  },
+  {
+    "id": 16,
+    "title": "The Wind Up Bird Chronicles",
+    "genre": "Fiction",
+    "rating": 5,
+    "published": "1996",
+    "authorId": 10
+  },
+  {
+    "id": 17,
+    "title": "What I Talk About When I Talk About Running",
+    "genre": "Non-fiction",
+    "rating": 2,
+    "published": "2008",
+    "authorId": 10
+  },
+  {
+    "id": 18,
+    "title": "Norwegian Wood",
+    "genre": "Fiction",
+    "rating": 5,
+    "published": "2000",
+    "authorId": 10
+  },
+  {
+    "id": 19,
+    "title": "The History of Western Philosophy",
+    "genre": "Philosophy",
+    "rating": 5,
+    "published": "1986",
+    "authorId": 11
+  },
+  {
+    "id": 20,
+    "title": "Men Without Women",
+    "genre": "Short Stories",
+    "rating": 3,
+    "published": "2017",
+    "authorId": 10
+  },
+  {
+    "id": 21,
+    "title": "The Laughing Monsters",
+    "genre": "Fiction",
+    "rating": 2,
+    "published": "2014",
+    "authorId": 3
+  },
+  {
+    "id": 22,
+    "title": "The Art of Fiction: Notes on Craft for Young Writers",
+    "genre": "Writing",
+    "rating": 5,
+    "published": "1991",
+    "authorId": 12
+  },
+  {
+    "id": 23,
+    "title": "Kafka on the Shore",
+    "genre": "Fiction",
+    "rating": 5,
+    "published": "2006",
+    "authorId": 10
+  },
+  {
+    "id": 24,
+    "title": "Ariel",
+    "genre": "Poetry",
+    "rating": 5,
+    "published": "1965",
+    "authorId": 13
+  },
+  {
+    "id": 25,
+    "title": "The Bell Jar",
+    "genre": "Fiction",
+    "rating": 3,
+    "published": "1963",
+    "authorId": 13
+  }
+
+  
+  
+]
