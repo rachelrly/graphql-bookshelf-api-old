@@ -43,6 +43,8 @@ const BookType = new GraphQLObjectType({
   })
 });
 
+//get all books from genre
+//get all books with minimum rating
 
 
 const RootQuery = new GraphQLObjectType({
